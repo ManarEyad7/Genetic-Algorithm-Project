@@ -2,11 +2,12 @@
 The genetic algorithm is a search-based optimization technique. It is frequently used to find the optimal or nearest optimal solution
 The algorithm is designed to replicate the natural selection process to carry generation, i.e. survival of the fittest of beings. 
 ### Standard genetic algorithms are divided into five phases which are:
-  1. Creating initial population.
-  2. Calculating fitness.
-  3. Selecting the best genes.
-  4. Crossing over.
-  5. Mutating to introduce variations.
+
+    1.Creating initial population.
+    2.Calculating fitness.
+    3.Selecting the best genes.
+    4.Crossing over.
+    5.Mutating to introduce variations.
   
   --------------------------------------------------
 These algorithms can be implemented to find a solution to optimization problems of various types. 
